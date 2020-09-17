@@ -1,1 +1,2 @@
 # AnotherTest
+TestCloneFunction
